@@ -1,0 +1,19 @@
+{
+  "name": "applogon",
+  "version": "1.0.0",
+  "description": "projeto para aprendizado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demarrage/AppLogon.git"
+  },
+  "author": "Demarrage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Demarrage/AppLogon/issues"
+  },
+  "homepage": "https://github.com/Demarrage/AppLogon#readme"
+}
